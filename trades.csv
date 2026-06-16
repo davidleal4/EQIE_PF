@@ -1,0 +1,42 @@
+Time,Symbol,Action,Price,VWAP,Size
+2026-05-27 21:05:46,MESM6,SELL,7544.75,7544.9375,1
+2026-05-27 21:05:50,MESM6,BUY,7545.0,7544.916666666667,1
+2026-05-27 21:05:57,MESM6,SELL,7544.75,7544.958333333333,1
+2026-05-27 21:05:59,MESM6,BUY,7545.0,7544.9625,1
+2026-05-27 21:06:07,MESM6,SELL,7544.75,7544.991666666667,1
+2026-05-27 21:06:11,MESM6,BUY,7545.0,7544.984375,1
+2026-05-27 21:06:13,MESM6,SELL,7544.75,7544.978571428572,1
+2026-05-27 21:06:21,MESM6,BUY,7545.0,7544.972972972973,1
+2026-05-27 21:07:21,MESM6,SELL,7545.75,7545.790983606557,1
+2026-05-27 21:07:31,MESM6,BUY,7546.0,7545.789893617021,1
+2026-05-27 21:07:37,MESM6,SELL,7545.75,7545.7940414507775,1
+2026-05-27 21:07:45,MESM6,BUY,7546.0,7545.795103092783,1
+2026-05-27 21:07:47,MESM6,SELL,7545.75,7545.794871794872,1
+2026-05-27 21:10:25,MESM6,BUY,7545.25,7545.102297592998,1
+2026-05-27 21:10:33,MESM6,SELL,7545.0,7545.104077253219,1
+Time,Symbol,Action,Price,Delta,Net_Equity,Net_Balance
+Time,Symbol,Action,Price,Delta,Net_Equity,Net_Balance
+Time,Symbol,Action,Price,Delta,Net_Equity,Net_Balance
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+09:05:13,MESM6,SELL,7536.25,-2.4,0.0,24979.87,
+09:07:40,MESM6,BUY,7538.5,1.94,-12.83,24967.04,Trailing_Stop
+09:07:42,MESM6,BUY,7538.25,2.69,-12.83,24967.04,
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+09:50:19,MESM6,SELL,7558.0,-2.21,0.0,24979.87,
+09:52:24,MESM6,BUY,7560.25,1.39,-12.83,24967.04,Trailing_Stop
+09:52:42,MESM6,BUY,7559.75,2.1,-12.83,24967.04,
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
+Time,Symbol,Action,Price,Z_Score,Net_Equity,Net_Balance,Exit_Reason
